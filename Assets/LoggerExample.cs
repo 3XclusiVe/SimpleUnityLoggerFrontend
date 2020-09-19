@@ -2,6 +2,7 @@
 
 public class LoggerExample : MonoBehaviour
 {
+    //remove UNITY_NOT_RELEASE define in Project setting to completely strip all logs
     void Awake()
     {
         CustomLog.LogWarning("Warning");
