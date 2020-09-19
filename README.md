@@ -4,7 +4,7 @@
 
 
 All features provided here is a compile-time features so there is no runtime overhead at all
-plus you can use any internal logger that you want
+Plus you can use any internal logger that you want
 
 # Example
 ![logo](https://github.com/3XclusiVe/SimpleUnityLoggerFrontend/blob/master/Assets/Doc/Doc.png?raw=true)
