@@ -27,6 +27,7 @@ public class LoggerExample : MonoBehaviour
 
     string HeavyMethod()
     {
+        CustomLog.LogError("Heavy method called!");
         return "@@ heavy string from heavy method @@";
     }
 }

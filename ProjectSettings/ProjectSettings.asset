@@ -580,7 +580,7 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLWasmStreaming: 0
   scriptingDefineSymbols:
-    1: UNITY_LOG_DEBUG;UNITY_NOT_RELEASE
+    1: UNITY_NOT_RELEASE
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
