@@ -11,9 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1fddaa6-c84f-4f14-a438-3cb797423ef0" name="Default Changelist" comment="added comments">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SimpleUnityLoggerFrontend/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SimpleUnityLoggerFrontend/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SimpleUnityLoggerFrontend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SimpleUnityLoggerFrontend/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/LoggerExample.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoggerExample.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +86,7 @@
       <updated>1600507930738</updated>
       <workItem from="1600507939243" duration="42000" />
       <workItem from="1600507997520" duration="2846000" />
-      <workItem from="1600510910837" duration="5000" />
+      <workItem from="1600510910837" duration="657000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1600508453074</created>
@@ -124,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600510714370</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="project settings init">
+      <created>1600510955273</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600510955273</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,13 +162,26 @@
     <MESSAGE value="added logger" />
     <MESSAGE value="added example" />
     <MESSAGE value="added comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="added comments" />
+    <MESSAGE value="project settings init" />
+    <option name="LAST_COMMIT_MESSAGE" value="project settings init" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="777" y="411" key="Github.ShareDialog" timestamp="1600511190505">
+      <screen x="0" y="23" width="1920" height="969" />
+    </state>
+    <state x="777" y="411" key="Github.ShareDialog/0.23.1920.969@0.23.1920.969" timestamp="1600511190505" />
+    <state x="560" y="247" key="Vcs.Push.Dialog.v2" timestamp="1600511464483">
+      <screen x="0" y="23" width="1920" height="969" />
+    </state>
+    <state x="560" y="247" key="Vcs.Push.Dialog.v2/0.23.1920.969@0.23.1920.969" timestamp="1600511464483" />
     <state x="653" y="249" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1600508263389">
       <screen x="0" y="23" width="1920" height="969" />
     </state>
     <state x="653" y="249" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.23.1920.969@0.23.1920.969" timestamp="1600508263389" />
+    <state x="701" y="403" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600511581866">
+      <screen x="0" y="23" width="1920" height="969" />
+    </state>
+    <state x="701" y="403" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1920.969@0.23.1920.969" timestamp="1600511581866" />
     <state x="623" y="234" width="672" height="678" key="search.everywhere.popup" timestamp="1600508020904">
       <screen x="0" y="23" width="1920" height="969" />
     </state>
