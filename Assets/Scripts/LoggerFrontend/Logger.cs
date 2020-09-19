@@ -16,6 +16,7 @@ static class CustomLog
         Error = 3
     }
 
+    [System.Diagnostics.Conditional("UNITY_NOT_RELEASE")]
     public static void Log(string message, bool forceStackTrace = false,
         [System.Runtime.CompilerServices.CallerMemberName]
         string memberName = "",
@@ -43,6 +44,7 @@ static class CustomLog
         LogInternal(level, Tag.ToString(), message, forceStackTrace);
     }
 
+    [System.Diagnostics.Conditional("UNITY_NOT_RELEASE")]
     public static void LogWarning(string message, bool forceStackTrace = false,
         [System.Runtime.CompilerServices.CallerMemberName]
         string memberName = "",
@@ -56,6 +58,7 @@ static class CustomLog
         LogInternal(level, Tag.ToString(), message, forceStackTrace);
     }
 
+    [System.Diagnostics.Conditional("UNITY_NOT_RELEASE")]
     public static void LogError(string message, bool forceStackTrace = false,
         [System.Runtime.CompilerServices.CallerMemberName]
         string memberName = "",
